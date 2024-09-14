@@ -87,7 +87,7 @@ function sendEmail() {
             `;
 
   Email.send({
-    SecureToken: "d4d02480-19ce-41a7-90d6-a8bb9419243a",
+    SecureToken: "19db5f9a-fcce-40d2-bc3a-fdbc17722578",
     To: "deepak8654454@gmail.com",
     From: "deepak8654454@gmail.com",
     Subject: subject,
