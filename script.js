@@ -86,7 +86,7 @@ function sendEmail() {
                 <b>Message : </b>${message}
             `;
 
-  Email.send({
+  email.send({
     SecureToken: "f6526166-0c56-4e6b-9579-1baae8cf1857",
     To: "deepak8654454@gmail.com",
     From: "deepak8654454@gmail.com",
